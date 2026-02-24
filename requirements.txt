@@ -1,1 +1,4 @@
-
+tensorflow
+tensorflow-federated
+numpy
+matplotlib
