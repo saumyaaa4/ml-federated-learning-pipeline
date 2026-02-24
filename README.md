@@ -74,13 +74,10 @@ git clone <https://github.com/saumyaaa4/ml-federated-learning-pipeline>
 cd ml-federated-learning-pipeline
 
 2. Install dependencies:
-```bash
 pip install -r requirements.txt
 
 3. Run the federated learning pipeline:
-```bash
 python federated_learning.py
 
 4. (Optional) Open the Jupyter Notebook for visualizations and experimentation:
-```bash
 jupyter notebook federated_mnist.ipynb
